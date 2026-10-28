@@ -261,7 +261,7 @@ export default function (app: Hono) {
         content.dynamicbackgrounds.backgrounds.backgrounds[0].backgroundimage =
           "https://cdn2.unrealengine.com/t-bp23-lobby-2048x1024-2048x1024-26f2c1b27f63.png";
         content.dynamicbackgrounds.backgrounds.backgrounds[0].stage =
-          "defaultnotris";
+          "season23";
       }
     } else if (version.season === 24) {
       content.dynamicbackgrounds.backgrounds.backgrounds[0].stage =
